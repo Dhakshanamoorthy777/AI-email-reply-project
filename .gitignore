@@ -1,0 +1,30 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Java / Maven
+target/
+*.class
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
